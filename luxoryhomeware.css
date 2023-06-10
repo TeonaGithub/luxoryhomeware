@@ -1,0 +1,19 @@
+body {background-color:  #4e3c3c;}
+.box1 {position: absolute;
+    height: 639px;
+    width: 390px;
+    left: 526px;
+    top: 100px;
+    background-color: #FFFFFF;
+    }
+    .b1 {background-color: #F9F9F9;
+        width: 337px;
+        height: 56px;
+        border: 0px solid #F9F9F9;}
+
+img {position:absolute;
+    height:304px;
+    width: 390px;
+    left: 0px;
+    top: 335px;
+    ;}
